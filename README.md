@@ -5,6 +5,7 @@ This model was trained for 30 epochs and was stopped early due to validation los
 
 ### Recorded accuracy score was:
 Train Loss: 0.0537, Train Accuracy: 0.9732
+
 Validation Loss: 0.1234, Validation Accuracy: 0.9080
 
 ### Cosine similarity of:
